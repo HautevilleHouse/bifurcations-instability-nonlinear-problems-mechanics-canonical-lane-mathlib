@@ -1,0 +1,2 @@
+import BifurcationsInstabilityNonlinearProblemsMechanicsCanonicalLaneLean.GateLemmas
+import BifurcationsInstabilityNonlinearProblemsMechanicsCanonicalLaneLean.FinalTheorem
